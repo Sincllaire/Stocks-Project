@@ -1,0 +1,24 @@
+DJIA-Stocks
+Ticker,Name,Exchange
+AXP,American Express Co,DJIA
+AMGN,Amgen Inc,DJIA
+AAPL,Apple Inc,DJIA
+BA,Boeing Co,DJIA
+CAT,Caterpillar Inc,DJIA
+CSCO,Cisco Systems Inc,DJIA
+CVX,Chevron Corp,DJIA
+GS,Goldman Sachs Group Inc,DJIA
+HD,Home Depot Inc,DJIA
+HON,Honeywell International Inc,DJIA
+IBM,International Business Machines Corp,DJIA
+INTC,Intel Corp,DJIA
+JNJ,Johnson & Johnson,DJIA
+KO,Coca-Cola Co,DJIA
+JPM,JPMorgan Chase & Co,DJIA
+MCD,McDonald’s Corp,DJIA
+MMM,3M Co,DJIA
+MRK,Merck & Co Inc,DJIA
+MSFT,Microsoft Corp,DJIA
+NKE,Nike Inc,DJIA
+PG,Procter & Gamble Co,DJIA
+TRV,Travelers Companies Inc,DJIA
