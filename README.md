@@ -59,7 +59,7 @@ Here is the official description and instructions for the project that was given
     
     -The actual change symbol shall be followed by the actual change value:
   
-  -The % change shall be preceded by exactly one (1) of the following symbols
+  -The % change shall be preceded by exactly one (1) of the following symbols:
   
     -If the change is positive, the % change shall be preceded by a plus sign (+)
     
