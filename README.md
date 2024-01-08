@@ -49,7 +49,7 @@ Here is the official description and instructions for the project that was given
 
 -The actual change shall be output with a precision of two (2) decimal places
 
-  -The actual change shall be preceded by exactly one (1) of the following symbols
+  -The actual change shall be preceded by exactly one (1) of the following symbols:
   
     -If the change is positive, the actual change shall be preceded by a  plus sign (+) 
   
@@ -57,7 +57,7 @@ Here is the official description and instructions for the project that was given
     
     -If there has been no change, the actual change shall not be preceded by a symbol
     
-    -The actual change symbol shall be followed by the actual change value
+    -The actual change symbol shall be followed by the actual change value:
   
   -The % change shall be preceded by exactly one (1) of the following symbols
   
