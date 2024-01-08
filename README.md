@@ -4,6 +4,7 @@ This is a project in Python where the objective was to print random, specific, o
 Here is the official description and instructions for the project that was given from the instructor:
 
 -All stock ticker output (stock symbol, new price, actual change, % change, old price) shall be displayed using the Raspberry Pi Sense Hat Emulator
+
 -The application shall be coded in your language of choice
 -The application shall display a main menu consisting of exactly three (3) menu items:
   -Main Menu Item 1:  DJIA
